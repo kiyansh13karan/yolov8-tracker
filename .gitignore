@@ -1,0 +1,20 @@
+
+# Data and Models
+*.weights
+*.pt
+*.mp4
+*.avi
+data/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
