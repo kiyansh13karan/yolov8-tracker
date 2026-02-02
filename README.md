@@ -97,5 +97,5 @@ python run_tracker_v8.py --show
 Computer Vision Enthusiast & Developer
 
 - **GitHub**: [kiyansh13karan](https://github.com/kiyansh13karan)
-- **LinkedIn**: [Karan Nayal](https://www.linkedin.com/in/karan-nayal-1313k/)
-- **Email**: [karan13nayal@gmail.com](mailto:karan13nayal@gmail.com)
+- **LinkedIn**: [Karan Nayal](https://www.linkedin.com/in/karan-nayal-054981286/)
+- **Email**: [kannunayalkaran1982@gmail.com](mailto:kannunayalkaran1982@gmail.com)
